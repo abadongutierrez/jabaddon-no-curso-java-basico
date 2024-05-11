@@ -2,6 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.io.Console;
 
+// public static void main(String[] args) { ... }
 void main() throws IOException {
     Scanner scanner = new Scanner(System.in);
     System.out.print("Numero a: ");
